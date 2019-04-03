@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "549392994503",
+    "firebase_url": "https://tesint-tech-everidea.firebaseio.com",
+    "project_id": "tesint-tech-everidea",
+    "storage_bucket": "tesint-tech-everidea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549392994503:android:67429024c77a5d0b",
+        "android_client_info": {
+          "package_name": "com.MoroSeneng.UnityFirebaseListView"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6IGeMtYl34iIwjSb1Ib0oYvnSIFsunU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549392994503-tcg8ntp6u78bssh55jgeft75gv7l0l9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549392994503:android:00cdb5d0772c7f19",
+        "android_client_info": {
+          "package_name": "com.coba.firebase_everidea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6IGeMtYl34iIwjSb1Ib0oYvnSIFsunU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549392994503-tcg8ntp6u78bssh55jgeft75gv7l0l9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
